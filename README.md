@@ -20,7 +20,7 @@
 - [Software prerequisites](#-software-prerequisites)
 - [Datasets](#-datasets)          <!-- 👉 原 #Datasets → GitHub自动转换大写字母为小写 -->
 - [Feature](#-feature)            <!-- 👉 原 #Feature → 需添加连字符 -->
-- [Environment Setup](#Environment-Setup)   <!-- 手动锚点方案 -->
+- [Environment Setup](#environment-setup)
 - [Trained Models](#-trained-models) <!-- 👉 原 #The-trained-model → 需匹配标题复数形式 -->
 
 
@@ -34,7 +34,7 @@ Next, it constructs an amino acid feature network from the contact map and SE-Mo
 Experimental results demonstrate that DeepHotResi outperforms state-of-the-art methods, effectively identifying hotspot residues in protein RNA complexes with superior accuracy on the test set. 
 
 
-<img src="./Model/model_overview.jpg" alt="Overview" width="800">
+<img src="./Model/model_overview.pdf" alt="Overview" width="800">
 
 ## 🖥️ System Requirements
 - ​**CPU**: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz 
